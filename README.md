@@ -1,2 +1,2 @@
 # BreakOut Game
-BreakOut Game using HTML, CSS and JavaScript hosted on GitHUB.
+2D BreakOut Game using HTML, CSS and JavaScript hosted on GitHUB.
